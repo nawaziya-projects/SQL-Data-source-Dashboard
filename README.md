@@ -37,7 +37,9 @@ Data Analysis: DAX (Data Analysis Expressions)
 Data Architecture: Data Modeling techniques
 
 
+
 📂 Data Source
+
 
 
 The dataset used in this project was sourced from Kaggle.
@@ -59,7 +61,9 @@ Enables robust, scalable, and high-performance data analytics
 Facilitates comprehensive reporting capabilities
 
 
+
 📈 Dashboard Features
+
 
 
 The project includes comprehensive dashboards that provide:
