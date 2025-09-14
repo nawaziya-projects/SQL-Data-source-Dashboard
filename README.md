@@ -17,7 +17,7 @@ MySQL Connector
 DAX (Data Analysis Expressions)
 Data Modeling
 
-5. Data source
+4. Data source
 
 The dataset used in this project was sourced from Kaggle
 
