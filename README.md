@@ -2,7 +2,6 @@ SQL Data Source Dashboard
 
 📊 Project Overview
 
-
 This project provides an efficient and powerful solution for migrating data from MySQL to SQL Server, designed to make data integration seamless and enable effortless Power BI reporting. It offers a practical approach to enhance data workflows and support data-driven decision-making processes.
 
 🎯 Purpose
