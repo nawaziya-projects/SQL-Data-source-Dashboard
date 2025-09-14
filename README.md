@@ -75,3 +75,8 @@ Performance analytics
 Data quality assessment
 
 Business intelligence insights
+
+
+Picturess
+
+
