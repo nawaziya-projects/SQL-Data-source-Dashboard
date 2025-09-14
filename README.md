@@ -79,4 +79,6 @@ Business intelligence insights
 
 Picturess
 
+https://github.com/nawaziya-projects/SQL-Data-source-Dashboard/blob/main/SQL%20Dashboard%20Picture.png
+
 
